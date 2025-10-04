@@ -1,0 +1,32 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.utmp/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Gradle / Android
+.gradle/
+*.apk
+*.aar
+*.dex
+*.class
+*.jar
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase binary files
+Assets/Firebase/Plugins/x86_64/
