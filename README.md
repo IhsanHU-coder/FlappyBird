@@ -1,9 +1,9 @@
-# 🐦 FlippyBird — Unity Firebase Leaderboard Project  
+# 🐦 FlappyBird — Unity Firebase Leaderboard Project  
 
 Download : [Flappy Bird Game](https://fatihsanstudio.itch.io/flappy-bird)
 
 ## 🎮 Deskripsi  
-**FlippyBird** adalah game buatan Unity yang terinspirasi dari Flappy Bird, dengan tambahan **online leaderboard** menggunakan **Firebase Realtime Database**.  
+**FlappyBird** adalah game buatan Unity yang terinspirasi dari Flappy Bird, dengan tambahan **online leaderboard** menggunakan **Firebase Realtime Database**.  
 Pemain bisa melihat skor mereka tersimpan online dan dibandingkan dengan pemain lain di seluruh dunia.  
 
 ---
@@ -59,3 +59,4 @@ Letakkan di folder:
 - Masukkan nama pemain
 - Mainkan game
 - Skor otomatis tersimpan ke Firebase Leaderboard
+
